@@ -18,7 +18,7 @@ Finetuned Model:
 -   [mclass_model_distilbert](https://drive.google.com/drive/folders/1V67W1pTgLd8BSxT3JE0p0Vlgo50zyaZ0?usp=share_link)
     <br>
 
-But, as a product of this project, I have build a chrome extension. Below are steps how to run the program (product):
+But, as a product of this project, I have built a chrome extension. Below are steps how to run the program (product):
 
 -   go to 'chrome-extension'
 -   you will find main.py, which is the server (using flask), and run it (but don't forget to activate the conda environment which all necessary packages can be found inside a yml file)
